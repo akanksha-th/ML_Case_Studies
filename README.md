@@ -13,5 +13,5 @@ In this repository, I explore neural machine translation using state-of-the-art 
 - Streamlit Deployment
 
 ### Hard Project: 
-    Multilingual Translation with Transfer Learning
-    Develop a scalable system for diverse language pairs using transfer learning.
+- Multilingual Translation with Transfer Learning
+- Develop a scalable system for diverse language pairs using transfer learning.
