@@ -5,13 +5,13 @@ In this repository, I explore neural machine translation using state-of-the-art 
 ### Easiest Method:
 - Hugging Face Models
 - Simple text translation using pre-trained models.
-- Gradio deployment
+- Deployment with Gradio.
 
-### Intermediate Project: 
+### Intermediate Project (Level-1): 
 - Customized Neural Machine Translation
 - Fine-tune models for specific domains like legal or medical texts.
-- Streamlit Deployment
+- Deployment with Streamlit.
 
-### Hard Project: 
+### Intermediate Project (Level-2): 
 - Multilingual Translation with Transfer Learning
 - Develop a scalable system for diverse language pairs using transfer learning.
