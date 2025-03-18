@@ -4,11 +4,11 @@ This repository is a **collection of projects** that focus on handling **structu
 
 ## 🏗️ Structure of the Repository  
 📂 **Classification/** – Projects where the goal is to assign labels to data points.  
-📂 **Regression/** – Projects where the goal is to predict continuous values.  
+📂 **Regression/** – Projects where the goal is to predict continuous values.   
+📂 **Anomaly Detection/** – Identifying rare patterns or fraud cases.
 
 ## 🔥 Future Expansions  
-- 🏷️ **Clustering** – Grouping similar data points without labeled data.  
-- ⚠️ **Anomaly Detection** – Identifying rare patterns or fraud cases.  
+- 🏷️ **Clustering** – Grouping similar data points without labeled data.   
 - 📉 **Time Series Forecasting** – Predicting future trends based on past data.  
 - 🔄 **Feature Engineering & Data Preprocessing** – Best practices for handling real-world datasets.  
 
