@@ -1,26 +1,49 @@
-# 📊 Working with Tabular Data  
 
-This repository is a **collection of projects** that focus on handling **structured, tabular data** using Machine Learning. It is divided into different **learning tasks**, showcasing how to approach various ML problems.  
+---
 
-## 🏗️ Structure of the Repository  
-📂 **Classification/** – Projects where the goal is to assign labels to data points.  
-📂 **Regression/** – Projects where the goal is to predict continuous values.   
-📂 **Anomaly Detection/** – Identifying rare patterns or fraud cases.
+## ✅ What You’ll Find in Each Case Study
 
-## 🔥 Future Expansions  
-- 🏷️ **Clustering** – Grouping similar data points without labeled data.   
-- 📉 **Time Series Forecasting** – Predicting future trends based on past data.  
-- 🔄 **Feature Engineering & Data Preprocessing** – Best practices for handling real-world datasets.  
+- **Problem Statement**  
+  A real-world-inspired task that demands structured thinking.
 
-## 🚀 Why This Repository?  
-✅ Helps structure projects related to **Tabular Data**.  
-✅ Showcases **ML workflows**, including **EDA, feature engineering, model building, and evaluation**. 
-✅ Increases **familiarity and command over PyTorch**, using it for building and training models. 
+- **Dataset Description**  
+  Public datasets with details, challenges, and relevance.
 
-## 📌 Projects  
-Each folder contains **real-world datasets** with Jupyter notebooks that demonstrate:  
-- Data Preprocessing & Feature Engineering  
-- Model Training & Evaluation  
-- Interpretability & Performance Metrics  
+- **Objectives & Approach**  
+  Step-by-step goals, model/technique choices, and rationale.
 
-📩 **Stay tuned for updates!** More projects and advanced ML techniques coming soon.  
+- **Jupyter Notebook**  
+  Full code, visualizations, modeling, and evaluations.
+
+- **Insights & Takeaways**  
+  What the analysis revealed and how it could drive decisions.
+
+---
+
+## 🚀 Case Studies Included
+
+| Case Study                        | Area                | Techniques Used          |
+|----------------------------------|---------------------|--------------------------|
+| Urban Noise Clustering (NYC 311) | Unsupervised ML     | DBSCAN, HDBSCAN, mapping |
+| Intrusion Detection (Upcoming)   | Cybersecurity / ML  | Autoencoders, k-Means    |
+| *(More coming soon)*             |                     |                          |
+
+---
+
+## 🛠️ Tools & Libraries
+
+- Python, Pandas, NumPy, Scikit-Learn
+- Matplotlib, Seaborn, Plotly, Folium
+- HDBSCAN, DBSCAN, GMM, t-SNE, UMAP
+- Jupyter Notebook
+
+---
+
+## 🧭 Purpose
+
+This repo is for:
+
+- Practicing ML modelling
+- Preparing for interviews with case-based thinking
+- Building a practical, portfolio-worthy showcase
+- Exploring different types of data: text, geo, time, mixed
