@@ -9,9 +9,9 @@ ML_Case_Studies/
 │   ├── 1.urban_noise_clustering.ipynb
 │   └── ...
 │
-├── data/                                # (Optional) Small example datasets or download scripts
+├── data/                                # For storing data, when running locally
 │   ├── sticker_sales_data.csv
-│   └── 
+│   └── ...
 │
 ├── models/                              # Saved models if needed for demonstration
 │
